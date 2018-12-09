@@ -1,14 +1,12 @@
 # Future
 
-Hi,
+Hi, I am minseok.
 
-I am minseok in group 13.
+This is the project of group 13 in 'machine learning and application course' held at Yonsei University 2018 - 2.
 
-This is the project in machine learning and application course in Yonsei University.
+Our team made diagnosing cancer model using simple machine learning algorighms.
 
-We made diagnosing cancer model using simple machine learning algorighms.
-
-We used svm. random forest, and gradientboosting which are widely used for their simplicity and accuracy.
+We used svm, random forest, and gradientboosting which are widely used for their simplicity and accuracy.
 
 Raw data in csv file is composed of 116 patients who suffered cancer.
 
