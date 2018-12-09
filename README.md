@@ -1,12 +1,17 @@
 # Future
-project
 
-This is the project of diagnosing cancer using machine learning algorighms.
+Hi,
 
-I used svm. random forest, and gradientboosting which are widely used for their simplicity and accuracy.
+I am minseok in group 13.
 
-Raw data is composed of 116 patients who suffered cancer.
+This is the project in machine learning and application course in Yonsei University.
 
-It contains whether the patient has cancer(1 means negative, 2 means positive) and various features(F)
+We made diagnosing cancer model using simple machine learning algorighms.
+
+We used svm. random forest, and gradientboosting which are widely used for their simplicity and accuracy.
+
+Raw data in csv file is composed of 116 patients who suffered cancer.
+
+It contains labels that indicate whether the patient has cancer or not(1 means negative, 2 means positive) and more than 800 features(F).
 
 Check which algorithm is the best tool for disgnosis!
